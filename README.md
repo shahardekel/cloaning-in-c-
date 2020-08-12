@@ -1,2 +1,2 @@
 # cloaning-in-c-
-cleaning bacterias using c++ class tools
+cloaning bacterias using c++ class tools
